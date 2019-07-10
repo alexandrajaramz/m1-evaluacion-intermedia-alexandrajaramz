@@ -36,9 +36,11 @@ body {
     flex-wrap: wrap;
 }
 
-.header__menu-listelement {
+.header__nav-link {
+    text-decoration: none;
     font-size: 16px;
     color: #4a4a4a;
+    text-transform: uppercase;
     margin-right: 20px;
 }
 
